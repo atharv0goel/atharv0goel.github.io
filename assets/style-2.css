@@ -179,9 +179,9 @@ a:hover {
     }
   }
   
-  @media (min-width: 768px) {
+@media (min-width: 768px) {
     .d-md-none {
       display: none !important;
     }
-  }
+}
   
